@@ -90,6 +90,7 @@
 .fondjaune {
   background-color: #ffef0a;
 }
-@media (max-width:768px){
+@media (max-width:767px){
   .helpcenter{padding-top: 50px;}
+  .proute{font-size: smaller;}
 }
